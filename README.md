@@ -1,9 +1,21 @@
-- 👋 Hi, I’m @matmat37000
-- 👀 I’m interested in the game developement !
-- 🌱 I’m currently learning the GDscript
-- 📫 How to reach me: 
+# Me
+Hello, I am a 16 years old french developer who love games and make games. I started programming since I was 11 years old. My first game and project is on Scratch but quickly I switched to Python and C# for my classical projects and GDScript in Godot for my games. I already have a very solid base in Python and my C# code is not perfect but I am working on it. 
+
+# Languages
+- Python
+- CSharp
+- HTML
+- CSS
+- GDScript
+**Learning:**
+- Dart
+- Flutter
+- JavaScript
+# How to reach me: 
   - Discord: matmat37000#8001
-  - Email: mathieuba37@gmail.com
+  - Email: mathieu.bordieraupy@gmail.com
+# Work
+Curently working an custom CMD in python, (maybe) on ModMopet by @89pleasure and little bit on PineappleEA-GUI by 
 
 
 <!-- - 💞️ I’m looking to collaborate on ... -->

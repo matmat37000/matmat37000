@@ -7,7 +7,7 @@ Hello, I am a 16 years old french developer who love games and make games. I sta
 - HTML
 - CSS
 - GDScript
-**Learning:**
+### Learning:
 - Dart
 - Flutter
 - JavaScript

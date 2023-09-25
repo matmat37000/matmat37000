@@ -7,9 +7,11 @@ Hello, I am a 16 years old french developer who love games and make games. I sta
 - HTML
 - CSS
 - GDScript
+- C#
 ### Learning:
-- Dart
-- Flutter
+- C++
+- ~~Dart~~
+- ~~Flutter~~
 - JavaScript
 # How to reach me: 
   - Discord: matmat37000#8001

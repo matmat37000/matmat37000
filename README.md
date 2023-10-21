@@ -20,7 +20,7 @@ Hello, I am a 16 years old french developer who love games and make games. I sta
 If you want to add me or email me, please say you're from here
 # Work
 Curently working an custom CMD in python and on a new video game 👀
-I'm learning C++ for creating and understanding cheats and DLL.
+I'm learning C++ for creating and understanding cheats on CSGO and DLL.
 
 
 <!-- - 💞️ I’m looking to collaborate on ... -->

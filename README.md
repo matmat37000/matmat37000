@@ -22,6 +22,8 @@ If you want to add me or email me, please say you're from here
 Curently working an custom CMD in python and on a new video game 👀
 I'm learning C++ for creating and understanding cheats on CSGO and DLL.
 
+# Trophy
+[![trophy](https://github-profile-trophy.vercel.app/?username=matmat37000)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!-- - 💞️ I’m looking to collaborate on ... -->
 <!---

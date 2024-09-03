@@ -1,5 +1,5 @@
 # Me
-Hi, I'm a 16 years old french developer who love games and make games. I've started programming since I was 11 years old. My first game and project was on Scratch but quickly I switched to Python and C# for my projects in general and GDScript with [Godot Engine](https://godotengine.org/) for my games. I already have a very solid base in Python and my C# code is not perfect but I am working on it. I'm currently working on a game based on the [Street SuS](https://www.instagram.com/street_sus__off?igsh=MXBuMjZ2bmY1dG5mcw==) story -> [Cheese On Baguette Gamme Studio](https://github.com/CheeseOnBaguetteGameStudio). 
+Hi, I'm a 16 years old french developer who love games and make games. I've started programming since I was 11 years old. My first game and project was on Scratch but quickly I switched to Python and C# for my projects in general and GDScript with [Godot Engine](https://godotengine.org/) for my games. I already have a very solid base in Python and my C# code is not perfect but I am working on it. I'm currently working on a game based on the [Street SuS](https://www.instagram.com/street_sus__off/) story -> [Cheese On Baguette Gamme Studio](https://github.com/CheeseOnBaguetteGameStudio). 
 
 # Stats
 | Github Stats 📊 | Top Langs 💬 |

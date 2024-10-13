@@ -1,5 +1,5 @@
 # Me
-Hi, I'm a 16 years old french developer who love games and make games. I've started programming since I was 11 years old. My first game and project was on Scratch but quickly I switched to Python and C# for my projects in general and GDScript with [Godot Engine](https://godotengine.org/) for my games. I already have a very solid base in Python and my C# code is not perfect but I am working on it. I'm currently working on a game based on the [Street SuS](https://www.instagram.com/street_sus__off/) story -> [Cheese On Baguette Gamme Studio](https://github.com/CheeseOnBaguetteGameStudio). 
+Hi, I'm a 17 years old french developer who love games and make games. I've started programming since I was 11 years old. My first game and project was on Scratch but quickly I switched to Python and C# for my projects in general and GDScript with [Godot Engine](https://godotengine.org/) for my games. I already have a very solid base in Python and started to switch from GDScript to C#. <!-- I'm currently working on a game based on the [Street SuS](https://www.instagram.com/street_sus__off/) story -> [Cheese On Baguette Gamme Studio](https://github.com/CheeseOnBaguetteGameStudio). -->
 
 # Stats
 | Github Stats 📊 | Top Langs 💬 |
@@ -10,20 +10,19 @@ Hi, I'm a 16 years old french developer who love games and make games. I've star
 
 # Languages 
 ## I know and use
-- <img height="48" width="48" src="https://cdn.simpleicons.org/python" />
-- <img height="48" width="48" src="https://cdn.simpleicons.org/csharp" />
-- <img height="48" width="48" src="https://cdn.simpleicons.org/html5" /> <img height="48" width="48" src="https://cdn.simpleicons.org/css3" />
-- <img height="48" width="48" src="https://cdn.simpleicons.org/godotengine" /> (GDScript)
+- Python
+- C#
+- HTML / CSS / (Partial) Javascript
+- GDScript
 ## I'm learning:
-- <img height="48" width="48" src="https://cdn.simpleicons.org/cplusplus" />
-- <img height="48" width="48" src="https://cdn.simpleicons.org/dart" />  <img height="48" width="48" src="https://cdn.simpleicons.org/flutter" />
-- <img height="48" width="48" src="https://cdn.simpleicons.org/javascript" />
+- C++
+- Javascript
 
 # How to reach me: 
   - Discord: matmat37000 (Mathiol)
   - Email: mathieu.bordieraupy@gmail.com
 
-If you want to add me or email me, please say you're from here
+<!-- If you want to add me or email me, please say you're from here -->
 <!-- # Work
 Curently working an custom CMD in python and on a new video game 👀
 I'm learning C++ for creating and understanding cheats on CSGO and DLL. -->

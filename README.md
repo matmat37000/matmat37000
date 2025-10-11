@@ -4,7 +4,7 @@ Hi, I'm a 17-year-old French developer who loves cats and making games ✨. I st
 - **Discord:** matmat37000 (Mathiol)  
 - **Email:** mathieu.bordieraupy@mathiol.site
 - **University Email:** mathieu.bordier-aupy@etu.univ-orleans.fr
-- **Blog:** [blog.mathiol.com](blog.mathiol.site) 🌻
+- **Blog:** [blog.mathiol.com](https://blog.mathiol.com) 🌻
 
 #### Languages I know and use  
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 

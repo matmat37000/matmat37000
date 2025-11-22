@@ -1,4 +1,4 @@
-Hi, I'm a 17-year-old French developer who loves cats and making games ✨. I started programming when I was 11. My first games and projects were on Scratch, but I quickly moved on to Python for learning and personal projects. For my games with the Godot Engine, I now use C# and GDScript. I already have a solid foundation in Python and have been transitioning from GDScript to C#.
+Hi, I'm a 18-year-old French developer who loves cats and making games ✨. I started programming when I was 11. My first games and projects were on Scratch, but I quickly moved on to Python for learning and personal projects. For my games with the Godot Engine, I now use C# and GDScript. I already have a solid foundation in Python and have been transitioning from GDScript to C#.
 
 ### How to reach me  
 - **Discord:** matmat37000 (Mathiol)  
